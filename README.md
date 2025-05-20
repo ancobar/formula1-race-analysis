@@ -60,3 +60,6 @@ Includes:
 
 
 ## 📂 Project Structure
+- README.md >>> Project documentation and overview (this file)
+- F1_Data.csv >>> Dataset used for the analysis (driver, constructor, circuit, and race performance)
+- F1_Analysis_Notebook.ipynb >>> Jupyter Notebook containing full Formula 1 data analysis and visualizations
